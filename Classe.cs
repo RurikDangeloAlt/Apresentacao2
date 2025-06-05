@@ -23,7 +23,7 @@ namespace Apresentacao
     }
 }
 
- public void Feature001()
+public void Conflict()
 {
-    Console.WriteLine("Feature001.");
+        Console.WriteLine("Olá! Resolvendo o conflito das duas features.");
 }
