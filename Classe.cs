@@ -22,3 +22,8 @@ namespace Apresentacao
         }
     }
 }
+
+ public void Feature002()
+{
+    Console.WriteLine("Feature002.");
+}
