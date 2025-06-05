@@ -22,3 +22,8 @@ namespace Apresentacao
         }
     }
 }
+
+public void Feature004()
+{
+Console.WriteLine("Olá! Esta é a quarta feature com conflito.");
+}
