@@ -22,3 +22,8 @@ namespace Apresentacao
         }
     }
 }
+
+public void Feature003()
+{
+    Console.WriteLine("Olá! Esta é a terceira feature.");
+}
